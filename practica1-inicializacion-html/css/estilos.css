@@ -1,4 +1,9 @@
 
 h1{
-    color: red;
+ color: cornflowerblue;
+}
+
+/* selector de clase */
+.titulo{
+    background-color: #333;
 }
